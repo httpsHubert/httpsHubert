@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hubert Lech</h1>
+<h1 align="center">Cześć 👋, Jestem Hubert</h1>
 <h3 align="center">Niesamowity programista z Sosnowca</h3>
 
 - 🔭 Obecny najważniejszy projekt **Teoria Grafów**
