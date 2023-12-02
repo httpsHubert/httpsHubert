@@ -3,11 +3,15 @@
 
 - 🔭 Obecny najważniejszy projekt **Teoria Grafów**
 
+- 🌱 Jestem w trakcie nauki **Struktur danych i algorytmów, Fluttera oraz języka francuskiego ;)**
+
 - 📫 Mój mail **hubert.lech3@o2.pl**
+
+- ⚡ Fun fact **Mógłbym patrzeć się na nocne niebo godzinami**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/hubert lech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert lech" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hubert.lech.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert lech" height="30" width="40" /></a>
 <a href="https://instagram.com/chubertpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chubertpv" height="30" width="40" /></a>
 </p>
 
