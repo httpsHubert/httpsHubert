@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Mógłbym patrzeć się na nocne niebo godzinami**
 
-<h3 align="left">Tutaj możesz mnie znaleźć</h3>
+<h3 align="left">Tutaj możesz mnie znaleźć:</h3>
 <p align="left">
 <a href="https://www.facebook.com/hubert.lech.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hubert lech" height="30" width="40" /></a>
 <a href="https://instagram.com/chubertpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chubertpv" height="30" width="40" /></a>
