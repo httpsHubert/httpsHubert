@@ -1,7 +1,7 @@
 <h1 align="center">Cześć 👋, Jestem Hubert</h1>
 <h3 align="center">Niesamowity programista z Sosnowca</h3>
 
-- 🔭 Obecny najważniejszy projekt **Teoria Grafów**
+- 🔭 Obecny najważniejszy projekt **Teoria Grafów - https://github.com/httpsHubert/Teoria-Grafow**
 
 - 🌱 Jestem w trakcie nauki **Struktur danych i algorytmów, Fluttera oraz języka francuskiego ;)**
 
